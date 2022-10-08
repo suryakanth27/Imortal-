@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Bulk report page</description>
+   <name>Reports</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a459b2a0-43fe-446e-823f-826f41092ea7</testCaseGuid>
+</TestCaseEntity>
